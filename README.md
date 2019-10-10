@@ -1,2 +1,2 @@
 # design
-App template for my project
+App template
